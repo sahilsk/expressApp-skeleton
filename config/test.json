@@ -1,0 +1,15 @@
+/* Applications parameters
+   *
+   * This controls database access and other configurations
+   */
+  {
+    "app" : {
+      "host":"localhost",
+      "port": 3002
+    },
+    "redis": {
+      "dbName": "",
+      "host": "localhost",
+      "port": 6973
+    }
+  }
